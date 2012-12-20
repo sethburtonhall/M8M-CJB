@@ -1,0 +1,6 @@
+exclude: [scss, kit, config.rb, README.md, app.js, script.js, modernizer-2.6.2.js, lte-ie7.js]
+site_name: 
+tagline:
+keywords: 
+auto: true
+css: /css/global.css
